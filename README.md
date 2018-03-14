@@ -1,2 +1,2 @@
 # gitTestProject
-intro to git
+intro to git.
